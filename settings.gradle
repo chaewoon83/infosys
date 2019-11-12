@@ -1,0 +1,2 @@
+include ':app', ':lib', ':lib2', ':lib3', ':lib4', ':hwb', ':Pset2A'
+rootProject.name='infosys'
